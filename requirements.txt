@@ -2,7 +2,3 @@ requests
 pandas
 bs4
 lxml
-webdriver
-time
-selenium 
-BeautifulSoup
