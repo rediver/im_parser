@@ -30,5 +30,5 @@ appended_data2 = pd.DataFrame.from_dict(results)
 print(appended_data2)
 
 
-appended_data2.to_csv(FILE_MANAGER_PATH("im.csv"))
+appended_data2.to_csv(FILE_MANAGER_PATH("/tmp/im.csv"))
 
