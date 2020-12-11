@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
+import os
 
 appended_data = []
 url = 'https://www.multisportaustralia.com.au/races/IM703-TAUPO-2019/events/1?page='   
