@@ -2,4 +2,3 @@ requests
 pandas
 bs4
 lxml
-os
